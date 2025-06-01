@@ -11,11 +11,3 @@ PCEF is a 501(c)(3) nonprofit on a mission to democratize cybersecurity educatio
 # Our mission
 
 Cybersecurity is for everyone. We’re building a future where knowledge is free, tools are accessible to all, and real-world skills are within reach. Through hands-on training and a no-gatekeeping mindset, we empower individuals to become defenders — in a community built by those who lead it, and those ready to.
-
-# Misc
-
-![PCEF GitHub Stats](https://github-readme-stats.vercel.app/api?username=perkins-fund&show_icons=true&theme=default&hide_border=true&icon_color=457b9d)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=perkins-fund&theme=default)
-
-![PCEF's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=perkins-fund&bg_color=ffffff&color=457b9d&line=2563eb&point=2c5f77&hide_border=true)
