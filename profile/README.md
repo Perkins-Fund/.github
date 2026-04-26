@@ -6,7 +6,7 @@ Our work is built for lawful, ethical, defensive, and educational use — and ma
 
 Explore more:
 
-[![Traceix](https://img.shields.io/badge/Try%20Traceix-%232c5f77)](Traceix)
+[![Traceix](https://img.shields.io/badge/Try%20Traceix-%232c5f77)](https://traceix.com)
 [![Donate Now](https://img.shields.io/badge/Donate%20Now-%23457b9d)](https://perkinsfund.org/donations)
 [![Visit Our Site](https://img.shields.io/badge/Visit%20Our%20Site-%232563eb)](https://perkinsfund.org)
 [![Take Our Courses](https://img.shields.io/badge/Take%20Our%20Courses-%23457b9d)](https://perkinsfund.org/courses)
